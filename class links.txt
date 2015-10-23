@@ -1,0 +1,9 @@
+Arduino IDE Board Manager Link:
+https://adafruit.github.io/arduino-board-index/package_adafruit_index.json
+Pro Trinket Drivers:
+https://learn.adafruit.com/adafruit-arduino-ide-setup/windows-setup 
+
+Reference:
+https://learn.adafruit.com/introducing-pro-trinket 
+https://learn.adafruit.com/adafruit-arduino-ide-setup/overview 
+https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls#list-of-3rd-party-boards-support-urls
